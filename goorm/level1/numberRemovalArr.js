@@ -1,3 +1,9 @@
+/**
+ * 숫자 제거 배열
+ * 한 배열의 k의 숫자가 없는 개수를 반환
+ * - String include() 사용
+ */
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
